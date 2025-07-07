@@ -13,5 +13,5 @@ It will expose 8080 port. After running up, curl localhost:8080.
 ### How to build
 
 ```shell
-docker build . -t helloworld
+docker build . -t helloworld:latest
 ```
